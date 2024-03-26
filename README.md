@@ -9,18 +9,25 @@ TEMA: **PRAIA**
 ## Objetos:
 
 > guarda-sol (arthur)
+
 > pessoas :) (arthur)
+
 > coqueiro (arthur)
+
 > mar (arthur)
 
 
 > volei de praia (tutu)
+
 > areia (tutu)
+
 > cadeira de praia (tutu)
 
 
 > vendedor de picolé (iuri)
+
 > torre salva vidas (iuri)
+
 > barco (iuri)
 
 
