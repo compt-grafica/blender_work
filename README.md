@@ -32,3 +32,5 @@ TEMA: **PRAIA**
 
 
 Obs.: Criar os objetos em arquivos .obj separados para juntar todos no blender main
+
+Prazos (a serem definidos...)
