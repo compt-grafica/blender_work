@@ -8,23 +8,23 @@ TEMA: **PRAIA**
 
 ## Objetos:
 
-> guarda-sol (arthur)
+> guarda-sol (arthur)   -(Feito)
 
 > pessoas :) (arthur)
 
 > coqueiro (arthur)
 
-> mar (arthur)
+> mar (arthur)  -(Feito)
 
 
 > volei de praia (tutu)
 
-> areia (tutu)
+> areia (tutu)  -(Feito)
 
-> cadeira de praia (tutu)
+> cadeira de praia (tutu)   -(Feito)
 
 
-> vendedor de picolé (iuri)
+> vendedor de picole (iuri)
 
 > torre salva vidas (iuri)
 
