@@ -17,7 +17,7 @@ TEMA: **PRAIA**
 > mar (arthur)  -(Feito)
 
 
-> volei de praia (tutu)
+> volei de praia (tutu) -(feito)
 
 > areia (tutu)  -(Feito)
 
