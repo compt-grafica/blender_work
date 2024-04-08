@@ -8,18 +8,16 @@ TEMA: **PRAIA**
 
 ## Objetos:
 
-> guarda-sol (arthur)   -(Feito)
+> guarda-sol (arthur)  (Feito)
 
-> pessoas :) (arthur)
+> coqueiro (arthur) (Feito)
 
-> coqueiro (arthur)
-
-> mar (arthur)  -(Feito)
+> mar (arthur)  (Feito) ?falta colocar a textura no git
 
 
 > volei de praia (tutu) -(feito)
 
-> areia (tutu)  -(Feito)
+> areia (tutu)  -(Feito)   
 
 > cadeira de praia (tutu)   -(Feito)
 
