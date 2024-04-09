@@ -8,27 +8,31 @@ TEMA: **PRAIA**
 
 ## Objetos:
 
-> guarda-sol (arthur)  (Feito)
+> guarda-sol (arthur)  :ok:
 
-> coqueiro (arthur) (Feito)
+> coqueiro (arthur) :ok:
 
-> mar (arthur)  (Feito) ?falta colocar a textura no git
-
-
-> volei de praia (tutu) -(feito)
-
-> areia (tutu)  -(Feito)   
-
-> cadeira de praia (tutu)   -(Feito)
+> mar (arthur)  ?falta colocar a textura no git
 
 
-> vendedor de picole (iuri)
+> volei de praia (tutu) :ok:
 
-> torre salva vidas (iuri)
+> areia (tutu)  :ok:
+
+> cadeira de praia (tutu)   :ok:
+
+
+> vendedor de picole (iuri) :ok:
+
+> torre salva vidas (iuri)  :ok:
 
 > barco (iuri)
 
 
 Obs.: Criar os objetos em arquivos .obj separados para juntar todos no blender main
 
-Prazos (a serem definidos...)
+Prazos:
+
+Juntar tudo em um arquivo até o dia 12
+
+Tirar foto com a camera até o dia 14
