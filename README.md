@@ -62,4 +62,4 @@ Foto dos objetos feitos Iuri Guimarães
 
 Foto dos objetos feitos Arthur Cavalcante
 
-![Todos os objetos na praia](img/praiaAll.png)
+![Todos os objetos na praia](img/tutu.png)
