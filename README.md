@@ -6,6 +6,8 @@ TEMA: **PRAIA**
 
 </div>
 
+Versão blender usada: 4.1
+
 Integrantes do grupinho:
 
 - Iuri Guimarães Pinheiro 
