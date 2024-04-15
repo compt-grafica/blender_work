@@ -2,9 +2,9 @@
 
 # Blender_Scenario
 
-</div>
-
 TEMA: **PRAIA**
+
+</div>
 
 Integrantes do grupinho:
 
@@ -12,7 +12,7 @@ Integrantes do grupinho:
 
 - Arthur Guaritá Brasil
 
-- Arthur Cavalcante
+- Arthur Cavalcante Neves
 
 ![Todos os objetos na praia](img/ad.png)
 
@@ -54,7 +54,7 @@ Fotos gerais
 
 Foto dos objetos feitos Arthur Guaritá
 
-![Todos os objetos na praia](img/praiaAll.png)
+![Todos os objetos na praia](img/arthurg.png)
 
 Foto dos objetos feitos Iuri Guimarães
 
