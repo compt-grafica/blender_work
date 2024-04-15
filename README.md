@@ -25,7 +25,7 @@ Integrantes do grupinho:
 > Mar (Arthur Guaritá) :ok:
 
 
-> Vôlei de praia (Arthur Cavalcante):ok:
+> Vôlei de praia (Arthur Cavalcante) :ok:
 
 > Areia (Arthur Cavalcante) :ok:
 
@@ -43,4 +43,4 @@ Obs.: Criar os objetos em arquivos .obj separados para juntar todos no blender m
 
 ## Fotos
 
-![Todos os objetos na praia](Users\User\Downloads/praiaAll.png)
+![Todos os objetos na praia](img/praiaAll.png)
