@@ -14,6 +14,8 @@ Integrantes do grupinho:
 
 - Arthur Cavalcante
 
+![Todos os objetos na praia](img/ad.png)
+
 ## Objetos:
 
 > Guarda-sol (Arthur Guaritá)  :ok:
@@ -42,5 +44,22 @@ Integrantes do grupinho:
 Obs.: Criar os objetos em arquivos .obj separados para juntar todos no blender main
 
 ## Fotos
+
+Obs.: deixei a areia e o oceano como base para as fotos de obj separadas
+
+Fotos gerais
+
+![Todos os objetos na praia](img/praiaAll.png)
+![Todos os objetos na praia](img/geral.png)
+
+Foto dos objetos feitos Arthur Guaritá
+
+![Todos os objetos na praia](img/praiaAll.png)
+
+Foto dos objetos feitos Iuri Guimarães
+
+![Todos os objetos na praia](img/praiaAll.png)
+
+Foto dos objetos feitos Arthur Cavalcante
 
 ![Todos os objetos na praia](img/praiaAll.png)
