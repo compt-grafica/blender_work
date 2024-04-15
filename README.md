@@ -6,33 +6,41 @@
 
 TEMA: **PRAIA**
 
+Integrantes do grupinho:
+
+- Iuri Guimarães Pinheiro 
+
+- Arthur Guaritá Brasil
+
+- Arthur Cavalcante
+
 ## Objetos:
 
-> guarda-sol (arthur)  :ok:
+> Guarda-sol (Arthur Guaritá)  :ok:
 
-> coqueiro (arthur) :ok:
+> Bola de volei (Arthur Guaritá) :ok:
 
-> mar (arthur)  ?falta colocar a textura no git
+> Coqueiro (Arthur Guaritá) :ok:
 
-
-> volei de praia (tutu) :ok:
-
-> areia (tutu)  :ok:
-
-> cadeira de praia (tutu)   :ok:
+> Mar (Arthur Guaritá) :ok:
 
 
-> vendedor de picole (iuri) :ok:
+> Vôlei de praia (Arthur Cavalcante):ok:
 
-> torre salva vidas (iuri)  :ok:
+> Areia (Arthur Cavalcante) :ok:
 
-> barco (iuri)
+> Cadeira de praia (Arthur Cavalcante) :ok:
+
+
+> Carrinho de picolé (Iuri) :ok:
+
+> Casa (Iuri) :ok:
+
+> Prancha (Iuri) :ok:
 
 
 Obs.: Criar os objetos em arquivos .obj separados para juntar todos no blender main
 
-Prazos:
+## Fotos
 
-Juntar tudo em um arquivo até o dia 12
-
-Tirar foto com a camera até o dia 14
+![Todos os objetos na praia](Users\User\Downloads/praiaAll.png)
