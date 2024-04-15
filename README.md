@@ -58,7 +58,7 @@ Foto dos objetos feitos Arthur Guaritá
 
 Foto dos objetos feitos Iuri Guimarães
 
-![Todos os objetos na praia](img/praiaAll.png)
+![Todos os objetos na praia](img/iuri.png)
 
 Foto dos objetos feitos Arthur Cavalcante
 
